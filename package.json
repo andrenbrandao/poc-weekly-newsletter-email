@@ -1,0 +1,7 @@
+{
+  "name": "weekly-newsletter-email",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "André Brandão <andrenbrandao@gmail.com>",
+  "license": "MIT"
+}
